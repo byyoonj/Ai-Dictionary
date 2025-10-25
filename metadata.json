@@ -1,0 +1,5 @@
+{
+  "name": "AI Powered Dictionary",
+  "description": "A customizable dictionary application powered by Gemini. Users can tailor definitions and examples to their profession and language level, and get translations in multiple languages.",
+  "requestFramePermissions": []
+}
